@@ -14,7 +14,8 @@ Sou programador de uma equipe de robótica com grande interesse em tecnologia e 
 
 ## Objetivos
 
-* Ter oportunidades de estudar em faculdades fora do país
+* Ter oportunidades de emprego
+* Estudar em faculdades fora do país
 * Aprender o maximo o possivel para o meu conhecimento
   
 ## 
