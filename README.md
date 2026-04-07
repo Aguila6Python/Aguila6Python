@@ -1,9 +1,20 @@
-# Olá, meu nome é Felipe Aguila!
+Sou programador de uma equipe de robótica com grande interesse em tecnologia e inovação. Gosto de desenvolver diferentes tipos de projetos e estou sempre explorando novas ideias.
 
-*Sou integrante da equipe de robótica Fran Robots da escola SESI de Franca SP  
+## Sobre mim
 
-*Focado em programação em Python e Flutter   
+* Programador da equipe de robótica SESI Fran Robots 🤖
+* 14 anos
+* Curioso e sempre aprendendo coisas novas
+* Gosto de criar e experimentar diferentes projetos
 
-*Sempre aprendendo algo novo  
+## Conhecimento
 
-*Tenho Ingles intermediario
+* Python (aprendendo / evoluindo)
+* Flutter (intermediário)
+
+## Objetivos
+
+Busco sempre melhorar no que for nescessario.
+
+Obrigado!
+
