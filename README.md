@@ -14,7 +14,9 @@ Sou programador de uma equipe de robótica com grande interesse em tecnologia e 
 
 ## Objetivos
 
-Busco sempre evoluir como pessoa e como equipe
+* Ter oportunidades de estudar em faculdades fora do país
+* Aprender o maximo o possivel para o meu conhecimento
+  
 ## 
 
 Obrigado!
